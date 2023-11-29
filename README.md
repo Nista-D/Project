@@ -1,4 +1,3 @@
-# Project
 Offline Music Player
 
 Problem Statement:-
